@@ -1,10 +1,6 @@
-<<<<<<< Updated upstream
 
 hello world
 wokring from main branch
 
-
-=======
 hello Ha Nguyen
 wokring from main branch
->>>>>>> Stashed changes
